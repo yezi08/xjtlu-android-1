@@ -97,7 +97,7 @@
     "previous": "Previous",
     "pulltorefresh": "Pull to refresh",
     "refresh": "Refresh",
-    "requireduserdatamissing": "This user lacks some required profile data. Please, fill this data in your ICEICE and try again.<br>{{$a}}",
+    "requireduserdatamissing": "This user lacks some required profile data. Please, fill this data in your ICE and try again.<br>{{$a}}",
     "search": "Search",
     "searching": "Searching",
     "sec" : "sec",

@@ -181,7 +181,7 @@
     "mm.login.invalidaccount": "Please check your login details or ask your site administrator to check the site configuration.",
     "mm.login.invalidmoodleversion": "Invalid ICE version. The minium version required is 2.4.",
     "mm.login.invalidsite": "The site URL is invalid.",
-    "mm.login.localmobileunexpectedresponse": "ICE app Additional Features check returned an unexpected response, you will be authenticated using the standard app service.",
+    "mm.login.localmobileunexpectedresponse": "ICE app Additional Features check returned an unexpected response, you will be authenticated using the standard ICE service.",
     "mm.login.login": "Log out",
     "mm.login.loginbutton": "Login!",
     "mm.login.logininsiterequired": "You need to log in to the site in a browser window.",

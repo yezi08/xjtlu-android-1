@@ -4796,6 +4796,7 @@ angular.module('mm.core')
 //            var docsurl = 'https://docs.moodle.org/en/' + page;
 
             var docsurl = 'http://ice.xjtlu.edu.cn/local/staticpage/view.php?page=ICE_app' + page;
+// XJTLU change end
             if (typeof release != 'undefined') {
                 var version = release.substr(0, 3).replace(".", "");
                 if (parseInt(version) >= 24) {
@@ -31955,7 +31956,7 @@ angular.module('mm.core')
     "versionname" : "3.1.1",
     "cache_expiration_time" : 300000,
     "default_lang" : "en",
-    "languages": {"ar": "عربي", "bg": "Български", "ca": "Català", "cs": "Čeština", "da": "Dansk", "de": "Deutsch","en": "English", "es": "Español", "es-mx": "Español - México", "eu": "Euskara", "fa": "فارسی", "fr" : "Français", "he" : "עברית", "hu": "magyar", "it": "Italiano", "ja": "日本語","nl": "Nederlands", "pl": "Polski", "pt-br": "Português - Brasil", "pt": "Português - Portugal", "ro": "Română", "ru": "Русский", "sv": "Svenska", "tr" : "Türkçe", "zh-cn" : "简体中文", "zh-tw" : "正體中文"},
+    "languages": {"en": "English"},
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
     "gcmpn": "847204461162",
